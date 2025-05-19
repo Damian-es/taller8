@@ -2,8 +2,6 @@
 #include <string.h>
 #include "funciones.h"
 
-
-
 int main() {
     int opcion;
     int tiempoDisponible = leerEnteroPositivo("Ingrese el tiempo total disponible (minutos): ");
