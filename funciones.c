@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include "funciones.h"
-// Variables globales (definidas directamente en el .h como pediste)
+
 int nombres_cantidad = 0;
 char nombres[MAX_PRODUCTOS][MAX_NOMBRE];
 int cantidades[MAX_PRODUCTOS];
